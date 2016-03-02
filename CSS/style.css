@@ -1,0 +1,35 @@
+body {
+	background-color: grey;
+	font-family: comic, serif;
+}
+
+h1 {
+	color: black;
+	font-size: 50px;
+	text-align: center;
+	margin-bottom: 50px;
+}
+
+.image {
+	float: left;
+	width: 30%;
+	padding: 10px;
+	position:
+
+}
+
+.portrait img {
+	width: 77%;
+}
+
+.caption {
+	text-align: left;
+	color: yellowgreen;
+	margin-top: -25px;
+	position: relative;
+}
+
+.landscape img {
+	width: 175%;
+}
+
