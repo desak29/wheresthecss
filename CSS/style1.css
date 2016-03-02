@@ -1,0 +1,25 @@
+html{overflow-y:scroll;min-height:100%}
+body{
+	position:relative;
+	margin: 0;
+	background: url("../images/page.jpg") repeat scroll 0 0 #A1DEE7;
+	font-family: "KreonRegular",sans-serif;
+	font-size: 16px;
+	color: #1F4E72;
+	text-shadow: 1px 2px 0 rgba(0, 107, 138, 0.1);
+	text-align:center;
+}
+a:hover,a:active,a{outline:none}
+
+textarea{overflow:auto}img::selection{background:transparent}img::-moz-selection{background:transparent}fieldset,img,iframe{border:0},select,button,label{cursor:pointer}article,aside,details,figcaption,figure,footer,header,hgroup,nav,section{display:block}audio,canvas,video{display:inline-block}
+
+#content {
+	width: 980px;
+	height: auto;
+	margin: 0 auto;
+	text-align:left;
+	clear: both;
+	display:block;
+	position: relative;
+	/*min-height: 1270px;*/
+}
